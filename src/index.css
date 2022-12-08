@@ -1,0 +1,8 @@
+.accordion-button::after {
+    filter: invert(70%);
+}
+
+.btn{
+    display: block;
+}
+
